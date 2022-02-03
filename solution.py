@@ -13,6 +13,9 @@ def welcome_assignment_answers(question):
         answer = "No"
     elif question == "Is it possible to decode a message without a key? - Yes/No":
         answer = "Yes"
+    elif question == "Is a hashed message supposed to be un-hashed? - Yes/No":
+        answer = "Yes"
+
     return(answer)
 # Complete all the questions.
 
