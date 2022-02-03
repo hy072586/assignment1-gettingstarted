@@ -11,7 +11,8 @@ def welcome_assignment_answers(question):
         answer = "No"
     elif question == "Is it possible to decrypt a message without a key? - Yes/No":
         answer = "No"
-
+    elif question == "Is it possible to decode a message without a key? - Yes/No":
+        answer = "No"
     return(answer)
 # Complete all the questions.
 
