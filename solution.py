@@ -9,6 +9,10 @@ def welcome_assignment_answers(question):
         answer = "The student should type the answer here"
     elif question == "Is it possible to decrypt a message without a key? - Yes/No":
         answer = "The student should type the answer here"
+    elif question == "Example_Text"
+        answer = "Example_Answer"
+    elif question == "Other_Text"
+        answer = "Other_Answer"
     return(answer)
 # Complete all the questions.
 
